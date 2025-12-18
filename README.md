@@ -1,6 +1,6 @@
 # Tugas Sesi 11 – Todo List Mobile
 
-Aplikasi **Todo List Mobile** ini dikembangkan sebagai bagian dari **Tugas Pemrograman Mobile Sesi 11**.  
+Aplikasi **Todo List Mobile** ini dikembangkan sebagai bagian dari **Tugas Pemrograman Perangkat Mobile Sesi 11**.  
 Aplikasi bertujuan untuk membantu pengguna dalam mencatat, menampilkan, dan mengelola daftar tugas secara sederhana melalui perangkat mobile.
 
 ## 📱 Deskripsi Aplikasi
