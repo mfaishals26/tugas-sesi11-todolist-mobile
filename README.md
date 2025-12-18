@@ -18,7 +18,8 @@ Pengguna dapat menambahkan tugas baru, melihat daftar tugas, serta mengelola dat
 - `components/` : Komponen UI Todo List
 - `services/` : Logika pengelolaan data todo
 - `assets/` : Gambar dan ikon aplikasi
-
+## ▶️ Demo Aplikasi
+Demo : https://drive.google.com/file/d/11_Gm7fQx-qRW06oUAhU1c4wQVfvgcFbC/view
 ## ▶️ Cara Menjalankan Aplikasi
 1. Clone repository ini:
    ```bash
